@@ -1,22 +1,21 @@
-
-title: My Resume
+n
+title: Portfolio
 url: 'http://junlulocky.com'
-baseurl: '/PanelCV' #change it according to your repository name
+baseurl: '/reginald-e-roberts.github.io' #change it according to your repository name
 
 
 
 # Profile information
-yourname: Brown Smith  ## put your name
-title: 'GRAPHIC &amp; WEB DESIGNER'  ## your title
-location: San Francisco , CA
+yourname: Reginald Eric Roberts  ## put your name
+title: 'Computational Social Scientist'  ## your title
+location:Culver city , CA
 
 
-## Social Profiles
-facebook: http://www.facebook.com  ## your facebook account url
-twitter: http://www.twitter.com  ## your twitter account url
-linkedin: http://www.linkedin.com  ## your linkedin account url
-dribbble: http://www.dribble.com  ## you dribbble account url
-foursquare: http://www.foursquare.com  ## your foursquare account url
+## Profiles
+
+linkedin: https://www.linkedin.com/in/reginald-r-38abb03/  ## your linkedin account url
+
+
 
 
 
